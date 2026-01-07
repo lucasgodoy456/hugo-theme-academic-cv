@@ -13,10 +13,10 @@ postnominals:
   - 
 status:
   icon: "🌱"
-role: Soil Ecology Researcher
+role: Soil Ecology and Acarology Researcher
 bio: |
   Undergraduate student in Agronomic Engineering and Agricultural Sciences Education at University of São Paulo (ESALQ-USP),
-  with a dual-degree (Master level) in Agronomy from Institut Agro Montpellier, specialized in Plant and Environmental Protection.
+  with a MSc in Agronomic Engineering (Plant and Environmental Protection) from Institut Agro Montpellier.
   Research experience spans mite taxonomy, soil ecology and pest management.
 
 affiliations:
@@ -46,24 +46,24 @@ interests:
   - Biodiversity
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: MSc Agronomic Engineering (Plant and Environmental Protection)
+    institution: Institut Agro Montpellier
+    start: 2022
+    end: 2024
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      The impact of agroecological practices on soil predatory mites in Mediterranean
+  #  button:
+  #    text: Download dissertation
+  #    url: /resume.pdf
+  #    icon: hero/arrow-down-tray
+  - degree: BSc Agronomic Engineering (Environmental Management)
+    institution: University of São Paulo (ESALQ-USP)
+    start: 2019
+    end: 2026
+  - degree: Undergaduate Degree Agricultural Sciences Education
+    institution: University of São Paulo (ESALQ-USP)
+    start: 2019
+    end: 2026
 
 experience:
   - role: Senior AI Research Scientist
@@ -85,7 +85,7 @@ experience:
 skills:
   - name: Technical Skills
     items:
-      - label: Python
+      - label: R
         level: 5
       - label: Machine Learning
         level: 5
